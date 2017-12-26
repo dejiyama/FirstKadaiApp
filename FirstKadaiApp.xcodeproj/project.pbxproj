@@ -10,8 +10,8 @@
 		22EDF1CA1FF1EC850094C9E3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22EDF1C91FF1EC850094C9E3 /* AppDelegate.swift */; };
 		22EDF1CC1FF1EC850094C9E3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22EDF1CB1FF1EC850094C9E3 /* ViewController.swift */; };
 		22EDF1CF1FF1EC850094C9E3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22EDF1CD1FF1EC850094C9E3 /* Main.storyboard */; };
-		22EDF1D11FF1EC850094C9E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22EDF1D01FF1EC850094C9E3 /* Assets.xcassets */; };
 		22EDF1D41FF1EC850094C9E3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22EDF1D21FF1EC850094C9E3 /* LaunchScreen.storyboard */; };
+		22EDF1DF1FF2227C0094C9E3 /* Geotica_2012.otf in Resources */ = {isa = PBXBuildFile; fileRef = 22EDF1DE1FF2227C0094C9E3 /* Geotica_2012.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,9 +19,9 @@
 		22EDF1C91FF1EC850094C9E3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		22EDF1CB1FF1EC850094C9E3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		22EDF1CE1FF1EC850094C9E3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		22EDF1D01FF1EC850094C9E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		22EDF1D31FF1EC850094C9E3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		22EDF1D51FF1EC850094C9E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22EDF1DE1FF2227C0094C9E3 /* Geotica_2012.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Geotica_2012.otf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,10 +54,10 @@
 		22EDF1C81FF1EC850094C9E3 /* FirstKadaiApp */ = {
 			isa = PBXGroup;
 			children = (
+				22EDF1DE1FF2227C0094C9E3 /* Geotica_2012.otf */,
 				22EDF1C91FF1EC850094C9E3 /* AppDelegate.swift */,
 				22EDF1CB1FF1EC850094C9E3 /* ViewController.swift */,
 				22EDF1CD1FF1EC850094C9E3 /* Main.storyboard */,
-				22EDF1D01FF1EC850094C9E3 /* Assets.xcassets */,
 				22EDF1D21FF1EC850094C9E3 /* LaunchScreen.storyboard */,
 				22EDF1D51FF1EC850094C9E3 /* Info.plist */,
 			);
@@ -123,8 +123,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22EDF1DF1FF2227C0094C9E3 /* Geotica_2012.otf in Resources */,
 				22EDF1D41FF1EC850094C9E3 /* LaunchScreen.storyboard in Resources */,
-				22EDF1D11FF1EC850094C9E3 /* Assets.xcassets in Resources */,
 				22EDF1CF1FF1EC850094C9E3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
